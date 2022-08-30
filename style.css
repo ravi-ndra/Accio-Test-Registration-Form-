@@ -1,0 +1,28 @@
+body{
+    background-image: url(./images/15441995_5605216.jpg);
+}
+
+.container{
+    margin-top: 38px;
+}
+
+.details{
+    background-image: linear-gradient( to bottom right, rgba(255, 255, 255, 0.562),rgba(133, 231, 231, 0.562) , rgba(117, 142, 224, 0.678)) ;
+    border-radius: 20px;
+    padding-bottom: 20px ;
+    display: flex;
+    box-shadow: 3px 3px 10px gray;
+}
+
+.registration-form{
+    width: 900px;
+    margin: auto;
+}
+
+.title{
+    text-align: center;
+}
+
+.submit-btn{
+    text-align: center;
+}
